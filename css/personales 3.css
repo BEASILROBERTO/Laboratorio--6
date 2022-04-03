@@ -1,0 +1,26 @@
+p{
+    
+    color:tomato;
+    padding: auto;
+    
+}/*poner color en*/
+body{
+    
+    background-color:whitesmoke;
+    
+}
+.parrafo{
+    margin-right: 100px;
+    border-radius: 5px;
+    float: right;
+}
+img{
+    position: left;
+    width: auto;
+    height: auto;
+    max-width: 200px;
+    max-height: 200px;
+    margin-right: 100px;
+    border-radius: 5px;
+   
+}

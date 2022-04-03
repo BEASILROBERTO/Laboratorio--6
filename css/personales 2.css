@@ -1,0 +1,29 @@
+p{
+    
+    color:silver;
+    padding: auto;
+    
+}/*poner color en*/
+body{
+    
+    background-color:slateblue;
+    
+}
+.parrafo{
+    margin-right: 100px;
+    border-radius: 5px;
+    float: right;
+}
+img{
+    position: left;
+    width: auto;
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+    margin-right: 100px;
+    border-radius: 5px;
+   
+}
+div{
+     width: 100px;
+}

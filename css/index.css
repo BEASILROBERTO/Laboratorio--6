@@ -1,0 +1,26 @@
+p{
+    
+    color:rebeccapurple;
+    padding: auto;
+    
+}/*poner color en*/
+body{
+    
+    background-color:darkorange;
+    
+}
+.parrafo{
+    margin-right: 980px;
+    border-radius: 5px;
+    float: right;
+}
+img{
+    position: left;
+    width: auto;
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+    margin-right: 50px;
+    border-radius: 5px;
+   
+}
